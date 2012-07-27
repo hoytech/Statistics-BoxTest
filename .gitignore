@@ -1,0 +1,8 @@
+README
+Makefile
+Makefile.old
+MYMETA.*
+Statistics-BoxTest-*.tar.gz
+blib/
+pm_to_blib
+MANIFEST.bak
